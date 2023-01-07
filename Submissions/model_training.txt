@@ -1,0 +1,8 @@
+Submission for Model Training
+
+{
+    "parth1007" : "https://colab.research.google.com/drive/1u2pEd8RmZn2yAzMiWD2ZS7wfyX79xz6I#scrollTo=3qnBcOEE_kUD"
+},
+{
+    "Parvish-Kakarapalli" : "https://colab.research.google.com/drive/1cm00nQWH0kPk0NFgp6Tc8j2G3SCcf-YB#scrollTo=tYXWZclCRqAR"
+}
